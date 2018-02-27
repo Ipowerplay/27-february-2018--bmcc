@@ -1,0 +1,6 @@
+1. Create variables that hold the numbers 20.5, 100, and 25.
+2. Sum them.
+3. Multiply them.
+4. Place the sum in a paragraph element.
+5. Place the product in an alert.
+6. Append the paragraph element to the body element.
